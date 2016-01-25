@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Привет мир, кликни на мне!</string>
+  <string name="Quit">Выход</string>  
+  <string name="ApplicationName">AppXamarian</string>
+</resources>
