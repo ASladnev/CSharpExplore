@@ -104,10 +104,6 @@ namespace AppXamarian.Droid
       Init();
 		}
 
-
-    
-
-
 	}
 }
 
